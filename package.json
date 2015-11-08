@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ashishbende/nodejs/issues"
   },
-  "homepage": "https://github.com/ashishbende/nodejs#readme"
+  "homepage": "https://github.com/ashishbende/nodejs#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
