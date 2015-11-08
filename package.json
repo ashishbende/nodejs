@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "simple node server with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishbende/nodejs.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "helloworld"
+  ],
+  "author": "Ashish Bende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishbende/nodejs/issues"
+  },
+  "homepage": "https://github.com/ashishbende/nodejs#readme"
+}
